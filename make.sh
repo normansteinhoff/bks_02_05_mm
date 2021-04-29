@@ -1,0 +1,1 @@
+clang -std=c99 -O2 -Wall -Wextra -pedantic -o memory memory.c memory_wrapper.c -lreadline

@@ -1,0 +1,1 @@
+./memory < input1.txt
